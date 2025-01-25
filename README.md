@@ -2,6 +2,8 @@
 
 This is a simple and fun memory game built with HTML, CSS, and JavaScript. The game challenges players to match pairs of cards with identical images. The objective is to flip over two cards at a time and try to remember their positions, ultimately pairing them correctly to win the game.
 
+You can play the game here: [Play the Memory Game](https://supersiri9.github.io/memory-game/)
+
 ## Features:
 - **Interactive Gameplay**: Flip and match pairs of cards to clear the board.
 - **Timer**: The game includes a timer to track how long it takes to complete the game.
